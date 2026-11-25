@@ -1,0 +1,42 @@
+<mxfile host="Electron">
+  <diagram name="Страница-1" id="e2HZyPr5TvzFlU-ocV9r">
+    <mxGraphModel dx="572" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gGwx580XPtuXcMHfJjoC-4" edge="1" parent="1" source="gGwx580XPtuXcMHfJjoC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gGwx580XPtuXcMHfJjoC-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gGwx580XPtuXcMHfJjoC-6" edge="1" parent="1" source="gGwx580XPtuXcMHfJjoC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gGwx580XPtuXcMHfJjoC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gGwx580XPtuXcMHfJjoC-8" edge="1" parent="1" source="gGwx580XPtuXcMHfJjoC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gGwx580XPtuXcMHfJjoC-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gGwx580XPtuXcMHfJjoC-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Программа" vertex="1">
+          <mxGeometry height="60" width="30" x="110" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="gGwx580XPtuXcMHfJjoC-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Удвоение числа" vertex="1">
+          <mxGeometry height="80" width="120" x="200" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="gGwx580XPtuXcMHfJjoC-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Вывести число" vertex="1">
+          <mxGeometry height="80" width="120" x="200" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="gGwx580XPtuXcMHfJjoC-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Получить число&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="200" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="gGwx580XPtuXcMHfJjoC-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Вывести число, если оно является нулем&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="400" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="gGwx580XPtuXcMHfJjoC-10" edge="1" parent="1" source="gGwx580XPtuXcMHfJjoC-9" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="gGwx580XPtuXcMHfJjoC-5" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points" />
+            <mxPoint x="260" y="650" as="sourcePoint" />
+            <mxPoint x="420" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
